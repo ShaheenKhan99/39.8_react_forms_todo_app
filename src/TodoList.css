@@ -1,0 +1,12 @@
+.TodoList {
+  text-align: center;
+}
+
+.TodoList input {
+  margin: 1rem;
+  padding: 0.5rem;
+}
+
+.TodoList ul {
+  list-style: none;
+}
